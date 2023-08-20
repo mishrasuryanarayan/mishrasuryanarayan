@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mishrasuryanarayan&label=Profile%20views&color=0e75b6&style=flat" alt="mishrasuryanarayan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/suryanarayan" target="blank"><img src="https://img.shields.io/twitter/follow/suryanarayan?logo=twitter&style=for-the-badge" alt="suryanarayan" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/suryanarayan-mishra/" target="blank">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Data analysis projects, Power BI, ETL, Informatica](https://drive.google.com/file/d/18p35DR9-4G59duZbu-CvgdQgOQwq2fK4/view?usp=sharing)
 
