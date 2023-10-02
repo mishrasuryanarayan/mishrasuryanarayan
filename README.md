@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **Data analytics, ETL, POWER BI, DWH, DL, INFORMATICA, PYTHON**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/18p35DR9-4G59duZbu-CvgdQgOQwq2fK4/view?usp=sharing](https://drive.google.com/file/d/18p35DR9-4G59duZbu-CvgdQgOQwq2fK4/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1a7Ni_7ja7xAA5CY0YHb7YoUdOfx7lzNe/view?usp=sharing](https://drive.google.com/file/d/1a7Ni_7ja7xAA5CY0YHb7YoUdOfx7lzNe/view?usp=sharing)
 
 - 💬 Ask me about **SQL, DATABASE, DATA WAREHOUSE, DATA MART, Power BI, DATA LAKE, MYSQL**
 
 - 📫 How to reach me **mishra.suryanarayan060@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18p35DR9-4G59duZbu-CvgdQgOQwq2fK4/view?usp=sharing](https://drive.google.com/file/d/18p35DR9-4G59duZbu-CvgdQgOQwq2fK4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1a7Ni_7ja7xAA5CY0YHb7YoUdOfx7lzNe/view?usp=sharing](https://drive.google.com/file/d/1a7Ni_7ja7xAA5CY0YHb7YoUdOfx7lzNe/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
